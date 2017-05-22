@@ -6,7 +6,7 @@ Languages: HTML/PHP/Javascript
 
 Notes About This project:
   -For this project's inital makeup I will be using Agile development methods in two week sprints.
-  -This project is purely for fun and personally I can see use in this as in my semesters in college we were given a grade calculator that    would only go as far as the next semester in terms of future calculations. In this case I always wanted to know 3-4 semester ahead if I    did well what my GPA should be. I also had concerns if the GPA calculator given to me by my university was correct. 
+  -This project is purely for fun and personally I can see use in this as in my semesters in college we were given a grade calculator that    would only go as far as the next semester in terms of future calculations. In this case I always wanted to know 3-4 semester ahead if I    did well what my GPA should be.
   
   
 Comments, Bugs or Questions:
